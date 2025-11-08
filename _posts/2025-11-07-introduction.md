@@ -19,3 +19,4 @@ recalibration of standard candles. Let's talk about it.
 
 I have been getting great results coding with AI. I will share with you examples, learnings, 
 guidelines, and more.
+

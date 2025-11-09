@@ -3,7 +3,7 @@ title: "MEMORY PALACE"
 date: 2025-11-09
 ---
 
-# Memory Palace
+# Memorize Lists While you Walk
 
 Cicero used to train his students of oratory to memorize their speeches by the "Method of Loci," nowadays known as a Memory Palace. The idea is to take some sequence of things you can visualize easily and reliably, then associate the Items-To-Memorize (ITMs) to that sequence. Cicero taught his students to picture locations, or "loci," along a route they walk daily, say from the bedroom to the bathroom to the kitchen to the garden to the local market, and so on. He knew that most of his students could recall dozens, if not hundreds, of loci, in sequence, with little effort. 
 

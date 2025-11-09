@@ -42,7 +42,7 @@ shuffled card packs, speeches, whatever, whenever you want. And you can
 remember them without hauling out your phone!
 
 Today, we'll memorize a (fake) phone number for my lawyer, 285-409-5768. Here
-is my "metal movie" for it: 
+is my "mental movie" for it: 
 
 285 --- Noah (from the Bible) is hoarding SUVs (my lawyer drives a Range Rover)
 
